@@ -1,6 +1,8 @@
 # nlsLM
 Standard 'nls' framework that uses 'nls.lm' for fitting Use nlsLM (minpack.lm) With (In) R Software
 
+https://www.youtube.com/watch?v=tOj8mP1noGU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
